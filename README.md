@@ -9,7 +9,8 @@ patterns and flooding, or environmental gradients and ecosystem responses.
 Flexible regression models can capture these complex patterns, but increased
 flexibility also increases the risk of overfitting. A central challenge in
 predictive modelling is therefore:
-\textbf{How can we build flexible models that generalize well to new data?}
+
+**How can we build flexible models that generalize well to new data ?**
 
 Classification and Regression Trees (CART) provide a flexible approach by
 dividing the predictor space into regions using recursive binary splits.
