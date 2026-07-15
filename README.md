@@ -1,0 +1,2 @@
+# Environmental-Statistics-Lecture-12-CART-Random-Forest-Bagging-and-Boosting
+Classification and Regression Trees (CART) provide a flexible approach by dividing the predictor space into regions using recursive binary splits. However, individual trees are often unstable and have high variance: small changes in the data can result in substantially different predictions. This motivates **ensemble methods**.
