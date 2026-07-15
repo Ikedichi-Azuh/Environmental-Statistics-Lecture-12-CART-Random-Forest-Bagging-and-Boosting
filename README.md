@@ -21,7 +21,6 @@ This motivates **ensemble methods**, where multiple trees are combined to
 create stronger predictive models.
 
 Two important ensemble approaches are:
-
 *  **Bagging (bootstrap aggregation)**, where many models are fitted to
 bootstrap samples and their predictions are averaged to reduce variance.
 
